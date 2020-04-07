@@ -1,0 +1,9 @@
+save_name,rCAG6i_summary
+folder_names,CRISPRessoBatch_on_129_PE_rep1/ CRISPRessoBatch_on_222_PE_rep2/
+data_target,rCAG6i
+data_ext_list,CAG18 CAG25
+data_trunc_list,CAG2 CAG6 CAG8 CAG15 CAG16
+control_file,noPE2nogd1rep1_S114 noPE2nogd2rep1_S115
+ctrl_target,CAG7
+ctrl_ext_list,CAG18 CAG25
+ctrl_trunc_list,CAG2 CAG3 CAG4 CAG5 CAG6 CAG8 CAG9 CAG10 CAG11 CAG12 CAG13 CAG14 CAG15 CAG16
